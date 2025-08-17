@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\TrelloApiE2E\TrelloApi.Core\bin\Debug\net7.0\TrelloApi.Core.deps.json
+C:\Users\Lenovo\Desktop\TrelloApiE2E\TrelloApi.Core\bin\Debug\net7.0\TrelloApi.Core.dll
+C:\Users\Lenovo\Desktop\TrelloApiE2E\TrelloApi.Core\bin\Debug\net7.0\TrelloApi.Core.pdb
+C:\Users\Lenovo\Desktop\TrelloApiE2E\TrelloApi.Core\obj\Debug\net7.0\TrelloApi.Core.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\TrelloApiE2E\TrelloApi.Core\obj\Debug\net7.0\TrelloApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\TrelloApiE2E\TrelloApi.Core\obj\Debug\net7.0\TrelloApi.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\TrelloApiE2E\TrelloApi.Core\obj\Debug\net7.0\TrelloApi.Core.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\TrelloApiE2E\TrelloApi.Core\obj\Debug\net7.0\TrelloApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\TrelloApiE2E\TrelloApi.Core\obj\Debug\net7.0\TrelloApi.Core.dll
+C:\Users\Lenovo\Desktop\TrelloApiE2E\TrelloApi.Core\obj\Debug\net7.0\refint\TrelloApi.Core.dll
+C:\Users\Lenovo\Desktop\TrelloApiE2E\TrelloApi.Core\obj\Debug\net7.0\TrelloApi.Core.pdb
+C:\Users\Lenovo\Desktop\TrelloApiE2E\TrelloApi.Core\obj\Debug\net7.0\ref\TrelloApi.Core.dll

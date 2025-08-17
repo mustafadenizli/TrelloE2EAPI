@@ -1,0 +1,6 @@
+c# Secrets
+*.env
+*.config
+TestData/*.xlsx
+TestData/*.txt
+TrelloApi.Tests/bin/Debug/net7.0/appsettings.json

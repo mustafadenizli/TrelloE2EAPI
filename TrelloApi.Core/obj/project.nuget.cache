@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P3e8rAv1SGot/Vi6p0eC543bLeo2Bfv7RFsG0HOzWqn00iIf/vc5Qh6zCO+p1XBtixjoej+nbCQZEKFPrS9ONA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\TrelloApiE2E\\TrelloApi.Core\\TrelloApi.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
